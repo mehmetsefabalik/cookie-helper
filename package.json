@@ -1,6 +1,6 @@
 {
   "name": "@mehmetsefabalik/cookie-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git://github.com/mehmetsefabalik/cookie-helper.git",
   "description": "simple cookie helper that provides CRUD functionalities",
   "main": "dist/index.js",
