@@ -9,6 +9,7 @@
     "build": "tsc",
     "test": "jest --config jestconfig.json"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "cookies"
   ],
